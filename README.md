@@ -10,3 +10,10 @@ Often I happen to land on amazing articles written to demonstrate various useful
 3. qcut
 4. get_dummies
 5. concat
+
+## EDA ([Notebook]()
+1. BoxPlot
+2. Histrogram
+3. Correlation Matrix
+4. Scatter Plot
+5. Scatter Matrix
