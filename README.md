@@ -11,7 +11,7 @@ Often I happen to land on amazing articles written to demonstrate various useful
 4. get_dummies
 5. concat
 
-## EDA ([Notebook]()
+## EDA ([Notebook](https://github.com/AD1985/Amazing-Pandas/blob/master/EDA.ipynb))
 1. BoxPlot
 2. Histrogram
 3. Correlation Matrix
