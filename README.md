@@ -4,7 +4,6 @@ Often I happen to land on amazing articles written to demonstrate various useful
 
 
 ## Pandas-Top5-Functions ([Notebook](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Top5-Functions.ipynb)/[HTML](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Top5-Functions.html))
-### Topics covered:
 1. crosstab
 2. cut
 3. qcut
