@@ -16,3 +16,6 @@ Often I happen to land on amazing articles written to demonstrate various useful
 3. Correlation Matrix
 4. Scatter Plot
 5. Scatter Matrix
+
+## Pandas-Pivot ([Notebook](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Pivot.ipynb))
+
