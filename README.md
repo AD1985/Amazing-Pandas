@@ -19,3 +19,9 @@ Often I happen to land on amazing articles written to demonstrate various useful
 
 ## Pandas-Pivot ([Notebook](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Pivot.ipynb))
 
+## Pandas-Query ([Notebok](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Query.ipynb))
+1. Conditional filtering
+2. Parameterized conditional filtering
+3. Column comparison
+4. Multi-conditional filtering
+5. Column conversion for filtering
