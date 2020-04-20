@@ -3,7 +3,7 @@
 Often I happen to land on amazing articles written to demonstrate various useful functions and methods available within Pandas module. This repository is an effort to capture the best knowledge from those articles in a concise fashion purely for quick and easy learning. 
 
 
-## Pandas-Top5-Functions ([Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Top5-Functions.html)/[HTML](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Top5-Functions.html))
+## Pandas-Top5-Functions ([Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Top5-Functions.ipynb)/[HTML](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Top5-Functions.html))
 1. crosstab
 2. cut
 3. qcut
