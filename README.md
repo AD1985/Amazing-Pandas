@@ -17,7 +17,7 @@ Often I happen to land on amazing articles written to demonstrate various useful
 4. Scatter Plot
 5. Scatter Matrix
 
-## Pandas-Pivot ([Notebook](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Pivot.ipynb))
+## Pandas-Pivot ([Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Pivot.ipynb))
 
 ## Pandas-Query ([Notebook](https://github.com/AD1985/Amazing-Pandas/blob/master/Pandas-Query.ipynb))
 1. Conditional filtering
