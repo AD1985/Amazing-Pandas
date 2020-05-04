@@ -17,7 +17,13 @@ Often I happen to land on amazing articles written to demonstrate various useful
 4. Scatter Plot
 5. Scatter Matrix
 
-## Pandas-Pivot ([Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Pivot.ipynb))
+## Reshaping & Pivoting ([Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Pivot.ipynb))
+1. pivot_table
+2. Missing value imputation
+3. Multiple statistics
+4. Stacking and Unstacking
+5. Cross Tabulation
+6. One-hot encoding
 
 ## Pandas-Query ([Notebook](https://nbviewer.jupyter.org/github/AD1985/Amazing-Pandas/blob/master/Pandas-Query.ipynb))
 1. Conditional filtering
